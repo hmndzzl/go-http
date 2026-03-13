@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nombre": "Kublai Khan TX",
+    "genero": "Metalcore / Beatdown",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2009,
+    "album_destacado": "Absolute"
+  },
+  {
+    "id": 2,
+    "nombre": "Paleface Swiss",
+    "genero": "Beatdown / Deathcore",
+    "pais_origen": "Suiza",
+    "anio_formacion": 2017,
+    "album_destacado": "Fear & Dagger"
+  },
+  {
+    "id": 3,
+    "nombre": "UnityTX",
+    "genero": "Hardcore / Nu-metalcore",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2014,
+    "album_destacado": "Ferality"
+  },
+  {
+    "id": 4,
+    "nombre": "Mugshot",
+    "genero": "Metalcore / Beatdown",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2014,
+    "album_destacado": "Cold Will"
+  },
+  {
+    "id": 5,
+    "nombre": "Slaughter to Prevail",
+    "genero": "Deathcore",
+    "pais_origen": "Rusia / Estados Unidos",
+    "anio_formacion": 2014,
+    "album_destacado": "Kostolom"
+  },
+  {
+    "id": 6,
+    "nombre": "Saltwound",
+    "genero": "Deathcore / Beatdown",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2019,
+    "album_destacado": "Vol. 2: DESPAIR"
+  },
+  {
+    "id": 7,
+    "nombre": "Knocked Loose",
+    "genero": "Metalcore / Hardcore",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2013,
+    "album_destacado": "A Tear in the Fabric of Life"
+  },
+  {
+    "id": 8,
+    "nombre": "Spite",
+    "genero": "Deathcore",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2014,
+    "album_destacado": "Dedication to Flesh"
+  },
+  {
+    "id": 9,
+    "nombre": "Bodysnatcher",
+    "genero": "Deathcore / Beatdown",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2014,
+    "album_destacado": "Bleed-Abide"
+  },
+  {
+    "id": 10,
+    "nombre": "Sunami",
+    "genero": "Beatdown Hardcore",
+    "pais_origen": "Estados Unidos",
+    "anio_formacion": 2019,
+    "album_destacado": "Sunami"
+  }
+]
