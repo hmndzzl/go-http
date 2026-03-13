@@ -18,6 +18,16 @@ Catálogo de bandas de metal extremo (Metalcore, Deathcore, Beatdown Hardcore). 
 ├── main.go
 ├── data/
 │   └── bandas.json
+├── capturas/
+│   └── delete.jpeg
+│   └── elementos.jpeg
+│   └── error.jpeg
+│   └── filtros_combinados.jpeg
+│   └── path_parameters.jpeg
+│   └── persistencia_datos.jpeg
+│   └── post.jpeg
+│   └── puerto.jpeg
+│   └── query_parametro.jpeg
 ├── Dockerfile
 └── docker-compose.yml
 ```
